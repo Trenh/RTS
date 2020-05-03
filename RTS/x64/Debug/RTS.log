@@ -1,0 +1,17 @@
+﻿  Main.cpp
+d:\artfx\c++\rts\rts\main.cpp(130): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\main.cpp(130): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\main.cpp(244): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\main.cpp(293): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Unit.cpp
+d:\artfx\c++\rts\rts\unit.cpp(87): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(95): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(111): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(112): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(148): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(149): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(151): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\artfx\c++\rts\rts\unit.cpp(216): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours...
+d:\artfx\c++\rts\rts\main.cpp(217): warning C4715: 'handleInput' : les chemins de contrôle ne retournent pas tous une valeur
+  RTS.vcxproj -> D:\Artfx\c++\RTS\x64\Debug\RTS.exe
