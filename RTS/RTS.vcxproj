@@ -122,6 +122,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="InputHandler.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="RessourceManager.cpp" />
     <ClCompile Include="SoundEffect.cpp" />
@@ -129,6 +131,8 @@
     <ClCompile Include="Unit.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="InputHandler.h" />
     <ClInclude Include="RessourceManager.h" />
     <ClInclude Include="SoundEffect.h" />
     <ClInclude Include="Text.h" />
